@@ -51,7 +51,7 @@ This project performs **Exploratory Data Analysis (EDA)** and **visualization** 
    - Sepal width has weaker correlations overall.
 
 4. **Boxplots**
-   - Most features have **few outliers**, mainly in .  
+   - Most features have **few outliers**, mainly in petal lenght and width.  
      
 
 
