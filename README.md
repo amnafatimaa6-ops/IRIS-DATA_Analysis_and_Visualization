@@ -60,7 +60,7 @@ This project performs **Exploratory Data Analysis (EDA)** and **visualization** 
 - **Petal length and width are the most informative features** for distinguishing species.  
 - **Setosa** is easily distinguishable due to smaller and tightly grouped petal sizes.  
 - **Versicolor and Virginica** overlap in sepal measurements but differ in petal sizes.  
-- Outliers are rare, mostly in petal features for Versicolor and Virginica.
+- Outliers are rare, mostly in petal features for Setosa and Virginica.
 
 ---
 
